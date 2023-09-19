@@ -1,0 +1,96 @@
+Company_Name,Position_Title,Resume_ID,Similarity_Score
+"""Google""","""Sales Specialist""",15811992,0.6467308
+"""Google""","""Sales Specialist""",26160200,0.6432984
+"""Google""","""Sales Specialist""",34657584,0.6348883
+"""Google""","""Sales Specialist""",38688388,0.63365746
+"""Google""","""Sales Specialist""",16899268,0.62737525
+"""Apple""","""Apple Solutions Consultant""",25315791,0.63812894
+"""Apple""","""Apple Solutions Consultant""",91533580,0.63544846
+"""Apple""","""Apple Solutions Consultant""",13637605,0.6330683
+"""Apple""","""Apple Solutions Consultant""",10235429,0.6267834
+"""Apple""","""Apple Solutions Consultant""",15425154,0.61867434
+"""Netflix""","""Licensing Coordinator - Consumer Products""",16893572,0.55214894
+"""Netflix""","""Licensing Coordinator - Consumer Products""",22380187,0.51929706
+"""Netflix""","""Licensing Coordinator - Consumer Products""",19975121,0.5002209
+"""Netflix""","""Licensing Coordinator - Consumer Products""",39569771,0.4983132
+"""Netflix""","""Licensing Coordinator - Consumer Products""",26278597,0.4859277
+"""Robert Half""","""Web Designer""",15602094,0.7189458
+"""Robert Half""","""Web Designer""",29193505,0.70482206
+"""Robert Half""","""Web Designer""",42304307,0.70362854
+"""Robert Half""","""Web Designer""",11919526,0.702887
+"""Robert Half""","""Web Designer""",27099856,0.6998172
+"""TrackFive""","""Web Developer""",17659053,0.6918419
+"""TrackFive""","""Web Developer""",12890045,0.68825865
+"""TrackFive""","""Web Developer""",25813953,0.68510324
+"""TrackFive""","""Web Developer""",15602094,0.6821044
+"""TrackFive""","""Web Developer""",38698573,0.681589
+"""DesignUps""","""Frontend Web Developer""",50324968,0.6810231
+"""DesignUps""","""Frontend Web Developer""",15154822,0.6375741
+"""DesignUps""","""Frontend Web Developer""",26790545,0.6372283
+"""DesignUps""","""Frontend Web Developer""",38744475,0.6310429
+"""DesignUps""","""Frontend Web Developer""",25023614,0.6298643
+"""Equisolve, Inc.""","""Remote Website Designer""",25023614,0.72014964
+"""Equisolve, Inc.""","""Remote Website Designer""",38565119,0.7047129
+"""Equisolve, Inc.""","""Remote Website Designer""",12674256,0.69768834
+"""Equisolve, Inc.""","""Remote Website Designer""",16899268,0.69492847
+"""Equisolve, Inc.""","""Remote Website Designer""",19926135,0.690997
+"""Zander Insurance Agency""","""Web Designer""",15425154,0.6099175
+"""Zander Insurance Agency""","""Web Designer""",23190306,0.5885693
+"""Zander Insurance Agency""","""Web Designer""",10235429,0.5834735
+"""Zander Insurance Agency""","""Web Designer""",10464113,0.57993233
+"""Zander Insurance Agency""","""Web Designer""",13637605,0.57918
+"""Tuff""","""Web Designer""",26130673,0.7115278
+"""Tuff""","""Web Designer""",90629382,0.7076685
+"""Tuff""","""Web Designer""",27497542,0.70512587
+"""Tuff""","""Web Designer""",14910300,0.7020909
+"""Tuff""","""Web Designer""",23497307,0.7016251
+"""General Dynamics Information Technology""","""SR. Web Designer""",57088974,0.75675917
+"""General Dynamics Information Technology""","""SR. Web Designer""",95792386,0.7395773
+"""General Dynamics Information Technology""","""SR. Web Designer""",31694970,0.71592367
+"""General Dynamics Information Technology""","""SR. Web Designer""",22450718,0.7150306
+"""General Dynamics Information Technology""","""SR. Web Designer""",22776912,0.71178734
+"""Sony Music Entertainment""","""Web Developer""",28663949,0.6082326
+"""Sony Music Entertainment""","""Web Developer""",28326441,0.6010581
+"""Sony Music Entertainment""","""Web Developer""",32605413,0.5993004
+"""Sony Music Entertainment""","""Web Developer""",21321598,0.5992969
+"""Sony Music Entertainment""","""Web Developer""",38535335,0.5992295
+"""Snapshot Interactive""","""Web Developer""",25839123,0.6568459
+"""Snapshot Interactive""","""Web Developer""",25813953,0.64289224
+"""Snapshot Interactive""","""Web Developer""",18176523,0.6380122
+"""Snapshot Interactive""","""Web Developer""",28326441,0.63715893
+"""Snapshot Interactive""","""Web Developer""",25023614,0.63707876
+"""Deloitte""","""Senior UI Designer""",15154822,0.728957
+"""Deloitte""","""Senior UI Designer""",28326441,0.7224842
+"""Deloitte""","""Senior UI Designer""",32965335,0.720258
+"""Deloitte""","""Senior UI Designer""",25813953,0.7161758
+"""Deloitte""","""Senior UI Designer""",27497542,0.71041095
+"""Themesoft Inc""","""Wordpress Web Developer""",35990852,0.74691695
+"""Themesoft Inc""","""Wordpress Web Developer""",44185767,0.73006046
+"""Themesoft Inc""","""Wordpress Web Developer""",26496059,0.7285974
+"""Themesoft Inc""","""Wordpress Web Developer""",11919526,0.7269292
+"""Themesoft Inc""","""Wordpress Web Developer""",17659053,0.7217088
+"""Western Governors University""","""UI Web Designer""",19717385,0.68076456
+"""Western Governors University""","""UI Web Designer""",86322251,0.6735713
+"""Western Governors University""","""UI Web Designer""",46055835,0.6525863
+"""Western Governors University""","""UI Web Designer""",54180474,0.6350308
+"""Western Governors University""","""UI Web Designer""",25839123,0.63033795
+"""Sedgwick""","""Senior Web Designer (REMOTE)""",24544244,0.668751
+"""Sedgwick""","""Senior Web Designer (REMOTE)""",79376680,0.55133927
+"""Sedgwick""","""Senior Web Designer (REMOTE)""",11270462,0.5472276
+"""Sedgwick""","""Senior Web Designer (REMOTE)""",90629382,0.54666185
+"""Sedgwick""","""Senior Web Designer (REMOTE)""",23782450,0.54167813
+"""Ohio ENT & Allergy Physicians""","""Chief Executive Officer""",38007664,0.59528947
+"""Ohio ENT & Allergy Physicians""","""Chief Executive Officer""",23110214,0.5844184
+"""Ohio ENT & Allergy Physicians""","""Chief Executive Officer""",36392131,0.5754193
+"""Ohio ENT & Allergy Physicians""","""Chief Executive Officer""",10549585,0.56265056
+"""Ohio ENT & Allergy Physicians""","""Chief Executive Officer""",10062724,0.5577987
+"""Confidential Jobs""","""Executive Vice President & Chief Executive Officer (CEO), Medical...""",23110214,0.5672031
+"""Confidential Jobs""","""Executive Vice President & Chief Executive Officer (CEO), Medical...""",22008817,0.5642936
+"""Confidential Jobs""","""Executive Vice President & Chief Executive Officer (CEO), Medical...""",55595908,0.55705726
+"""Confidential Jobs""","""Executive Vice President & Chief Executive Officer (CEO), Medical...""",87520378,0.55606997
+"""Confidential Jobs""","""Executive Vice President & Chief Executive Officer (CEO), Medical...""",20172393,0.5488671
+"""RiverVista Health and Wellness""","""CEO""",27182111,0.6857906
+"""RiverVista Health and Wellness""","""CEO""",18129173,0.66828096
+"""RiverVista Health and Wellness""","""CEO""",53169257,0.6639308
+"""RiverVista Health and Wellness""","""CEO""",11174187,0.6556075
+"""RiverVista Health and Wellness""","""CEO""",10480456,0.655488
